@@ -9,7 +9,7 @@
 
 Socat Forwarder
 
-    wget -O sepehr.sh "https://raw.githubusercontent.com/ToolSeRF/Sepehr-GRE-FORWARDER/main/sepehr.sh?$(date +%s)" && chmod +x sepehr.sh && bash sepehr.sh
+    wget -O sepehr.sh "https://raw.githubusercontent.com/69learn1/mismirt/refs/heads/main/sepehr.sh?$(date +%s)" && chmod +x sepehr.sh && bash sepehr.sh
 
 
 
